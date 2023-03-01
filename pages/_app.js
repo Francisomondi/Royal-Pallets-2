@@ -1,14 +1,15 @@
-import Link from 'Next/link'
+import Link from 'next/link'
 
 export default function MyApp({ Component, pageProps }) {
 return (
     <div>
 
     <Link href="/">
-    <p>Home</p>
+        <p>Home</p>
     </Link>
+
     <Link href="/about">
-    <p>About</p>
+        <p>About</p>
     </Link>
     
     
