@@ -15,7 +15,7 @@ return (
     
     <Component {...pageProps} />
     <footer>
-    <p>Website done by Francis Omondi</p>
+    <p>This website is under construction. Kindly bear with us we will be up and running in no minute!</p>
     </footer>
     </div>
 

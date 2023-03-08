@@ -1,4 +1,4 @@
-function HomePage() {
+const HomePage=()=> {
 return (
     <div>
     <h1>Welcome to Royal Pallets & Interior decor!</h1>
